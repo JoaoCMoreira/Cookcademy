@@ -11,6 +11,7 @@
 		5D8B7D512A4F0834003BEBE1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B7D502A4F0834003BEBE1 /* ContentView.swift */; };
 		5D8B7D532A4F0837003BEBE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D8B7D522A4F0837003BEBE1 /* Assets.xcassets */; };
 		5D8B7D572A4F0837003BEBE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D8B7D562A4F0837003BEBE1 /* Preview Assets.xcassets */; };
+		5D8B7D5E2A4F141B003BEBE1 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B7D5D2A4F141B003BEBE1 /* Recipe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5D8B7D522A4F0837003BEBE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D8B7D542A4F0837003BEBE1 /* Cookcademy.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Cookcademy.entitlements; sourceTree = "<group>"; };
 		5D8B7D562A4F0837003BEBE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5D8B7D5D2A4F141B003BEBE1 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5D8B7D522A4F0837003BEBE1 /* Assets.xcassets */,
 				5D8B7D542A4F0837003BEBE1 /* Cookcademy.entitlements */,
 				5D8B7D552A4F0837003BEBE1 /* Preview Content */,
+				5D8B7D5D2A4F141B003BEBE1 /* Recipe.swift */,
 			);
 			path = Cookcademy;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D8B7D5E2A4F141B003BEBE1 /* Recipe.swift in Sources */,
 				5D8B7D512A4F0834003BEBE1 /* ContentView.swift in Sources */,
 				5D8B7D4F2A4F0834003BEBE1 /* CookcademyApp.swift in Sources */,
 			);
